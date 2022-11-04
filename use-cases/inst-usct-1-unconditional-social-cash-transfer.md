@@ -1,4 +1,4 @@
-# INST-USCT-1 - Unconditional Social Cash Transfer2
+# INST-USCT-1 - Unconditional Social Cash Transfer
 
 ## Product Use Case Summary
 
@@ -47,7 +47,7 @@ Registration is the process of collecting information on potential beneficiaries
 
 **Consent**
 
-* 4.4.1 Consenting at initial registration2
+* 4.4.1 Consenting at initial registration
 * 4.4.2 Consenting after the registration
 
 **Registration**

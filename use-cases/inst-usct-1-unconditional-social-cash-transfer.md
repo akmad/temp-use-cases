@@ -2,17 +2,19 @@
 
 ## Product Use Case Summary
 
-| ID          | INST-USCT-1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Name        | Unconditional Social Cash Transfer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Description | This use case profiles specifically the digital integration steps within the delivery journey of a generalized unconditional social cash transfer service. Unconditional cash transfers are cash payments provided to financially disadvantaged or vulnerable people or households without requiring anything in return (i.e. without conditionality). This is different from a conditional payment where the benefit needs to be applied on the basis of achieving a certain result (e.g. higher school attendance, or prenatal care visit), or to be expended specifically on a type of resource (e.g. housing, or agricultural equipment). Governments in low- and middle-income countries increasingly use these benefit schemes in attempt to reduce poverty or other vulnerabilities, such as those related to health. |
-| Sector      | Institution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Version     | 1.0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Status      | Draft                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ID      | INST-USCT-1                        |
+| ------- | ---------------------------------- |
+| Name    | Unconditional Social Cash Transfer |
+| Sector  | Institution                        |
+| Version | 1.0                                |
+| Status  | Draft                              |
+
+This use case profiles specifically the digital integration steps within the delivery journey of a generalized unconditional social cash transfer service. Unconditional cash transfers are cash payments provided to financially disadvantaged or vulnerable people or households without requiring anything in return (i.e. without conditionality). This is different from a conditional payment where the benefit needs to be applied on the basis of achieving a certain result (e.g. higher school attendance, or prenatal care visit), or to be expended specifically on a type of resource (e.g. housing, or agricultural equipment). Governments in low- and middle-income countries increasingly use these benefit schemes in attempt to reduce poverty or other vulnerabilities, such as those related to health.
 
 ## SDG Targets
 
-16.6: Develop effective, accountable and transparent institutions at all levels SDG Target 2: Target description
+* 16.6: Develop effective, accountable and transparent institutions at all levels&#x20;
+* SDG Target 2: Target description
 
 ## Actors
 
@@ -45,19 +47,19 @@ Registration is the process of collecting information on potential beneficiaries
 
 #### Building Block Workflows
 
-**Consent**
+****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
 
-* 4.4.1 Consenting at initial registration
-* 4.4.2 Consenting after the registration
+* [4.4.1 Consenting at initial registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.1-consenting-at-initial-registration-pre-registration-using-a-centralised-id-system)
+* [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
 
-**Registration**
+****[**Registration**](https://govstack.gitbook.io/bb-registration/)****
 
-* 8.2 Using a Registration Service
+* [8.2 Using a Registration Service](https://govstack.gitbook.io/bb-registration/8-workflows#docs-internal-guid-6bac7ec4-7fff-2f07-f48f-168981104eec)
 
-**Identity and Verification**
+****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
 
-* 6.1 Identity Registration
-* 6.2 Identity Verification
+* [6.1 Identity Registration](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-54ffa6d1-7fff-1219-8f59-d45ca47b2ad7)
+* [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
 ### 3 - Data Verification and Validation
 

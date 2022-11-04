@@ -80,16 +80,16 @@ Registration is the process of collecting information on potential beneficiaries
 
 #### Building Block Workflows
 
-****[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 * [4.4.1 Consenting at initial registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.1-consenting-at-initial-registration-pre-registration-using-a-centralised-id-system)
 * [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
 
-****[**Registration**](https://govstack.gitbook.io/bb-registration/)****
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
 
 * [8.2 Using a Registration Service](https://govstack.gitbook.io/bb-registration/8-workflows#docs-internal-guid-6bac7ec4-7fff-2f07-f48f-168981104eec)
 
-****[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
 * [6.1 Identity Registration](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-54ffa6d1-7fff-1219-8f59-d45ca47b2ad7)
 * [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
@@ -106,11 +106,11 @@ Data within the SRIS Social Registry Information System (SRIS) is generally chec
 \
 **Building Block Workflows**
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 * [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
 * [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
@@ -133,7 +133,7 @@ NOTE: Depending on the country and programme, eligibility determination takes di
 
 #### Building Block Workflows
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
 * [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
@@ -164,15 +164,15 @@ Eligible beneficiaries are re-contacted and asked to enroll onto the programme. 
 
 #### Building Block Workflows
 
-****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
 * Unknown Workflow
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
 * [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
-[**Registration**](https://govstack.gitbook.io/bb-registration/)****
+[**Registration**](https://govstack.gitbook.io/bb-registration/)
 
 * [8.2 Using a Registration Service](https://govstack.gitbook.io/bb-registration/8-workflows#docs-internal-guid-6bac7ec4-7fff-2f07-f48f-168981104eec)
 
@@ -197,7 +197,7 @@ If a social cash transfer programme has enabled electronic payment processes (e.
 
 #### Building Block Workflows
 
-****[**Payments**](https://govstack.gitbook.io/bb-payments/)****
+[**Payments**](https://govstack.gitbook.io/bb-payments/)
 
 * [10.2.1 Bulk Disbursement for Unconditional Cash Transfer](https://govstack.gitbook.io/bb-payments/10-workflows#10.2.1-bulk-disbursement-for-unconditional-cash-transfer)
 
@@ -217,11 +217,11 @@ Depending on the programme and on the country’s broader social protection poli
 
 #### Building Block Workflows
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
 * [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 * [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
 
@@ -253,11 +253,11 @@ Central level managers and local social welfare officers base decisions and mana
 
 #### Building Block Workflows
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
 * [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 * [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
 
@@ -289,11 +289,11 @@ Ensuring data is up to date to trigger: Programme exit for those who are no long
 
 #### Building Block Workflows
 
-[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)****
+[**Identity and Verification**](https://govstack.gitbook.io/bb-identity/)
 
 * [6.2 Identity Verification](https://govstack.gitbook.io/bb-identity/6-functional-requirements#docs-internal-guid-2affb3f5-7fff-fa73-9e68-7707b820858d)
 
-[**Consent**](https://govstack.gitbook.io/bb-consent/)****
+[**Consent**](https://govstack.gitbook.io/bb-consent/)
 
 * [4.4.2 Consenting after the registration](https://govstack.gitbook.io/bb-consent/9-workflows#4.4.2-consenting-after-the-registration-post-registration)
 
